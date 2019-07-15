@@ -9,7 +9,8 @@ Utility to search &amp; download mods from Minecraft Curseforge written in C# .N
 - [ ] Detect MultiMC instance folders
 
 # Requirements
-- Windows OS (written in .NET)
+- Windows OS (written in .NET), or
+- Wine (not tested, but should work)
 
 # Installation
 Just download the release, extract it to some folder and run "Curseforge_Scraper.exe".
