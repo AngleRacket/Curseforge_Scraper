@@ -2,10 +2,10 @@
 Utility to search &amp; download mods from Minecraft Curseforge written in C# .NET
 
 # Features
-[x] - Works
-[x] - Search for mods
-[x] - Download mods
-[ ] - (possibly more to come, but not sure yet)
+- [x] Works
+- [x] Search for mods
+- [x] Download mods
+- [ ] (possibly more to come, but not sure yet)
 
 # Requirements
 - Windows OS (written in .NET)
