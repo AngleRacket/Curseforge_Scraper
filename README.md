@@ -1,4 +1,4 @@
-# Curseforge_Scraper
+# Curseforge Scraper
 Utility to search &amp; download mods from Minecraft Curseforge written in C# .NET
 
 # Features
