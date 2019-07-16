@@ -5,6 +5,7 @@ Utility to search &amp; download mods from Minecraft Curseforge written in C# .N
 - [x] Works
 - [x] Search for mods
 - [x] Download mods
+- [ ] Specify Minecraft version
 - [ ] Automatically download dependencies
 - [ ] Detect MultiMC instance folders
 
